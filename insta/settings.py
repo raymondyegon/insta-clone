@@ -34,6 +34,7 @@ INSTALLED_APPS = [
     'photos',
     'bootstrap4',
     'imagekit',
+    'registration',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
