@@ -34,7 +34,7 @@ To access the Code behind this site, you will need to:
 3. Create database on psql shell
   ```SQL
   psql
-  CREATE DATABASE gallery;
+  CREATE DATABASE instagram;
   ```
 4. Migrate the database and run the application
   ```bash
